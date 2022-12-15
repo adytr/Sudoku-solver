@@ -1,9 +1,0 @@
-com/Myapplication/sudokusolver/MainActivity.java
- com.Myapplication.sudokusolver.MainActivity
- com.Myapplication.sudokusolver.MainActivity$SolveBoardThread
-com/Myapplication/sudokusolver/BuildConfig.java
- com.Myapplication.sudokusolver.BuildConfig
-com/Myapplication/sudokusolver/SudokuBoard.java
- com.Myapplication.sudokusolver.SudokuBoard
-com/Myapplication/sudokusolver/Solver.java
- com.Myapplication.sudokusolver.Solver
